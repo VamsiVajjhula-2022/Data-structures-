@@ -11,7 +11,7 @@ int isEmpty(struct stack *ptr)
 {
     if(ptr->top==-1)
     {
-        return(0);
+        return(1);
     }
     else
     {
