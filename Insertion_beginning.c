@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//Here we give data and next because they are the elements present in the linked list.
 struct Node
 {
     int data;
